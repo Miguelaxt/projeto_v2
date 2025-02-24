@@ -1,0 +1,72 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: red;
+}
+
+#navbar{
+    text-align: center;
+    background-color: goldenrod;
+    color:rgb(0, 162, 255);
+}
+
+.noticia{
+    text-align: center;
+    background-color: rgb(0, 162, 255);
+    padding: 5px;
+    border-style: solid;
+    border-color: goldenrod;
+    width: 300px;
+}
+
+#noticias{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+#rodape{
+    padding:30px;
+    background-color: goldenrod;
+    color:rgb(0, 162, 255);
+    text-align: center;
+}
+
+.Curiosidade{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#aliado{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.aliados{
+    text-align: center;
+    background-color: rgb(0, 162, 255);
+    padding: 5px;
+    border-style: solid;
+    border-color: goldenrod;
+    width: 300px;
+}
+
+#vilao{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Viloes{
+    text-align: center;
+    background-color: rgb(0, 162, 255);
+    padding: 5px;
+    border-style: solid;
+    border-color: goldenrod;
+    width: 300px;
+}
